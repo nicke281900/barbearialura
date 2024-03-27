@@ -1,20 +1,25 @@
-body[
- backgroud: #cb0b0b
-]
+body {
 
-p{
- text-align:justify;	
 }
-h1{
-text-align: center;
-	color:aquamarine
-	border: 5px solid;
-	padding: 20px;
+
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
 }
-p{
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
 	text-align: center;
 }
 
 #missao{
 
-}
