@@ -1,25 +1,40 @@
 body {
+ background: #CCCCCC;
+}  
 
+#banner {
+whidth:100%;
 }
 
 .principal{
-    background: #CCCCCC;
-    padding: 30px;
-}
-.itens {
-    font-style: italic;
+background: #CCCCCC;
 }
 
-.beneficios {
-    background: #FFFFFF;
-    padding: 20px;
+h1 {
+	text-align: center;
 }
+	
 
-h2 {
-    text-align: center;
-}
+p{
 	text-align: center;
 }
 
 #missao{
+font-size: 20px
+}
 
+em strong{
+color: #FF0000;
+}
+
+.itens{
+font-size: italic
+}
+
+.benefícios {
+background: #FFFFFF;
+}
+
+h2
+text-align: center;
+}
