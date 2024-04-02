@@ -11,7 +11,7 @@ background: #CCCCCC;
 pedding: 30px;
 }
 
-h1 {
+.titulo-centralizado {
 	text-align: center;
 }
 	
@@ -36,9 +36,6 @@ background: #FFFFFF;
 pedding: 20px;
 }
 
-h2 {
-text-align: center;
-}
 ul {
 display: inline-block;
 vertical-aling: top;
