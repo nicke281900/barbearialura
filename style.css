@@ -8,6 +8,7 @@ whidth:100%;
 
 .principal{
 background: #CCCCCC;
+pedding: 30px;
 }
 
 h1 {
@@ -26,15 +27,24 @@ font-size: 20px
 em strong{
 color: #FF0000;
 }
-
 .itens{
 font-size: italic
 }
 
 .benefícios {
 background: #FFFFFF;
+pedding: 20px;
 }
 
-h2
+h2 {
 text-align: center;
 }
+ul {
+display: inline-block;
+vertical-aling: top;
+widht: 20%;
+margin right: 15%;
+}
+
+.imagembeneficios{
+ width: 50%;
